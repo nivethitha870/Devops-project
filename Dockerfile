@@ -6,4 +6,6 @@ COPY . .
 
 RUN pip install -r requirements.txt
 
-CMD ["python","AI RESUME GENERATER.py"]
+EXPOSE 5000
+
+CMD ["python","-m","http.server","5000"]

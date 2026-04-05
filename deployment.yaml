@@ -2,30 +2,28 @@ apiVersion: apps/v1
 kind: Deployment
 
 metadata:
- name: devops-project
+  name: devops-project
 
 spec:
- replicas: 2
+  replicas: 2
 
- selector:
-  matchLabels:
-   app: devops-project
+  selector:
+    matchLabels:
+      app: devops-project
 
- template:
+  template:
 
-  metadata:
+    metadata:
+      labels:
+        app: devops-project
 
-   labels:
-    app: devops-project
+    spec:
+      containers:
 
-  spec:
+      - name: devops-project
 
-   containers:
+        image: ai-resume
+        imagePullPolicy: Never
 
-   - name: devops-project
-
-     image: nivethitha870/devops-project
-
-     ports:
-
-     - containerPort: 5000
+        ports:
+        - containerPort: 5000
