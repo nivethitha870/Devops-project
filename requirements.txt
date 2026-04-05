@@ -1,0 +1,6 @@
+langdetect
+translate
+matplotlib
+PyPDF2
+python-docx
+flask
