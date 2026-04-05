@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Resume ATS</title>
+
+<style>
+
+body{
+
+font-family:Arial;
+
+background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+
+color:white;
+
+text-align:center;
+
+transition:0.4s;
+
+}
+
+.light{
+
+background:white;
+color:black;
+
+}
+
+.container{
+
+background:white;
+color:black;
+
+width:1000px;
+
+margin:auto;
+
+margin-top:30px;
+
+padding:25px;
+
+border-radius:12px;
+
+animation:fade 1s;
+
+}
+
+@keyframes fade{
+
+from{opacity:0;transform:translateY(20px);}
+to{opacity:1;}
+
+}
+
+.card{
+
+display:inline-block;
+
+background:#f4f4f4;
+
+padding:15px;
+
+margin:10px;
+
+width:170px;
+
+border-radius:10px;
+
+animation:pop 0.8s;
+
+}
+
+@keyframes pop{
+
+from{transform:scale(0.8)}
+to{transform:scale(1)}
+
+}
+
+table{
+
+width:100%;
+
+border-collapse:collapse;
+
+margin-top:20px;
+
+}
+
+th{
+
+background:#28a745;
+
+color:white;
+
+padding:10px;
+
+}
+
+td{
+
+padding:8px;
+
+border-bottom:1px solid #ddd;
+
+}
+
+.progress{
+
+background:#ddd;
+
+border-radius:6px;
+
+}
+
+.bar{
+
+background:#28a745;
+
+height:15px;
+
+border-radius:6px;
+
+animation:grow 1.2s;
+
+}
+
+@keyframes grow{
+
+from{width:0%}
+
+}
+
+button{
+
+background:#28a745;
+
+color:white;
+
+border:none;
+
+padding:8px;
+
+margin:5px;
+
+border-radius:6px;
+
+cursor:pointer;
+
+}
+
+button:hover{
+
+background:#1e7e34;
+
+}
+
+#preview{
+
+background:#f4f4f4;
+
+height:200px;
+
+overflow:auto;
+
+padding:10px;
+
+margin-top:15px;
+
+text-align:left;
+
+border-radius:6px;
+
+}
+
+</style>
+
+<script>
+
+function search(){
+
+let input=document.getElementById("search").value.toLowerCase()
+
+let rows=document.getElementsByClassName("row")
+
+for(let i=0;i<rows.length;i++){
+
+let text=rows[i].innerText.toLowerCase()
+
+rows[i].style.display=text.includes(input)?"":"none"
+
+}
+
+}
+
+function preview(name){
+
+fetch("/resume/"+name)
+
+.then(r=>r.text())
+
+.then(data=>{
+
+document.getElementById("preview").innerText=data
+
+})
+
+}
+
+function toggle(){
+
+document.body.classList.toggle("light")
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<h1>AI Resume ATS Dashboard</h1>
+
+<button onclick="toggle()">Dark / Light</button>
+
+<div class="container">
+
+<form action="/upload" method="POST" enctype="multipart/form-data">
+
+<input type="text" name="skills" placeholder="python,java,sql">
+
+<br><br>
+
+<input type="file" name="resumes" webkitdirectory directory multiple>
+
+<br>
+
+<button type="submit">Analyze</button>
+
+</form>
+
+{% if output %}
+
+<h2>Dashboard</h2>
+
+<div class="card">
+
+Total Resumes
+
+<br>
+
+{{output.split("TOTAL:")[1].split()[0]}}
+
+</div>
+
+<div class="card">
+
+Top Candidate
+
+<br>
+
+{{output.split("TOP:")[1].split(":")[0]}}
+
+</div>
+
+<div class="card">
+
+Top Match %
+
+<br>
+
+{{output.split("TOP:")[1].split(":")[1].split()[0]}}%
+
+</div>
+
+<br>
+
+<input id="search" onkeyup="search()" placeholder="Search resume">
+
+<table>
+
+<tr>
+
+<th>Resume</th>
+
+<th>Score</th>
+
+<th>Match</th>
+
+<th>Skill Match</th>
+
+<th>Preview</th>
+
+</tr>
+
+{% for line in output.splitlines() %}
+
+{% if "," in line %}
+
+<tr class="row">
+
+<td>{{line.split(",")[0]}}</td>
+
+<td>{{line.split(",")[1]}}</td>
+
+<td>{{line.split(",")[2]}}%</td>
+
+<td>
+
+<div class="progress">
+
+<div class="bar"
+
+style="width:{{line.split(',')[2]}}%">
+
+</div>
+
+</div>
+
+</td>
+
+<td>
+
+<button onclick="preview('{{line.split(',')[0]}}')">
+
+View
+
+</button>
+
+</td>
+
+</tr>
+
+{% endif %}
+
+{% endfor %}
+
+</table>
+
+<h3>Resume Preview</h3>
+
+<div id="preview">
+
+Click resume to preview
+
+</div>
+
+<h3>Graph</h3>
+
+<img src="/static/graph.png" width="500">
+
+<br>
+
+<a href="/download">
+
+<button>
+
+Download Report
+
+</button>
+
+</a>
+
+{% endif %}
+
+</div>
+
+</body>
+
+</html>

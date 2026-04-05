@@ -1,3 +1,0 @@
-cd "C:\Users\NIVI PRAGATHEESWARAN\OneDrive\Desktop"
-
-mpiexec -n 4 python DD.py

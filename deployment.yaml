@@ -12,17 +12,16 @@ spec:
       app: devops-project
 
   template:
-
     metadata:
       labels:
         app: devops-project
 
     spec:
       containers:
-
       - name: devops-project
 
         image: ai-resume
+
         imagePullPolicy: Never
 
         ports:
