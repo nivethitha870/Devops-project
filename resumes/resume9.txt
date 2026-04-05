@@ -1,0 +1,18 @@
+Name: Mohan R  
+Email: mohan.r@email.com  
+Phone: +91-9786000000
+
+Skills: Java, Spring Boot, MySQL, Microservices
+
+Experience:
+- Backend Engineer at CoreLogic (3 years)
+- Implemented REST APIs and Microservices in Spring Boot
+
+Education:
+- B.E. in Computer Science, CIT Coimbatore
+
+Projects:
+- Hotel booking backend system
+- CI/CD pipeline for Java deployments
+
+Languages: English, Tamil

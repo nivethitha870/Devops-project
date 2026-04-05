@@ -1,0 +1,23 @@
+Name: Harshit Kapoor
+Email: harshit.kapoor@email.com
+Phone: +91-9876543210
+
+Skills: JavaScript, React, Node.js, MongoDB
+
+Experience:
+
+Full Stack Intern at WebGenie (1 year)
+
+Built dynamic websites and APIs
+
+Education:
+
+B.Tech in IT, Manipal University
+
+Projects:
+
+E-commerce website
+
+Job portal with admin dashboard
+
+Languages: English, Hindi

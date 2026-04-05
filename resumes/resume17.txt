@@ -1,0 +1,24 @@
+Name: Rahul Gupta
+Email: rahul.gupta@email.com
+Phone: +91-9543210987
+
+Skills: Network Security, Firewalls, VPN
+
+Experience:
+
+Network Security Analyst at SecureNet (3 years)
+
+Implemented security protocols for corporate networks
+
+Education:
+
+B.Tech in Information Security, IIIT Hyderabad
+
+Projects:
+
+Intrusion detection system for enterprise
+
+Secure VPN setup for remote employees
+
+Languages: English, Gujarati
+

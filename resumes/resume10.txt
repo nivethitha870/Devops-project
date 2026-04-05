@@ -1,0 +1,18 @@
+Name: Kavitha Sekar  
+Email: kavitha.sekar@email.com  
+Phone: +91-9876501234
+
+Skills: Java, Hibernate, PostgreSQL, REST APIs
+
+Experience:
+- Java Developer at AppStream (2.5 years)
+- Maintained backend services and integrated third-party APIs
+
+Education:
+- B.E. in Information Technology, Anna University
+
+Projects:
+- Inventory management system
+- Payment gateway integration
+
+Languages: English, Tamil

@@ -1,0 +1,23 @@
+Name: Ananya Mukherjee
+Email: ananya.m@email.com
+Phone: +91-9123456789
+
+Skills: Python, TensorFlow, Keras, CNN
+
+Experience:
+
+Research Intern at CVPR Lab (8 months)
+
+Worked on CNN-based object detection
+
+Education:
+
+M.Tech in AI, IIT Kharagpur
+
+Projects:
+
+Handwritten digit recognition
+
+Real-time mask detection system
+
+Languages: English, Bengali

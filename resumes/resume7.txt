@@ -1,0 +1,18 @@
+Name: Rakesh Menon  
+Email: rakesh.menon@email.com  
+Phone: +91-9955432112
+
+Skills: HTML, CSS, JavaScript, React, Firebase
+
+Experience:
+- Frontend Developer at WebSpark (2 years)
+- Developed SPAs and UI components using React
+
+Education:
+- B.Tech in IT, SRM Institute
+
+Projects:
+- Portfolio website with animations
+- Real-time chat app with Firebase
+
+Languages: English, Malayalam

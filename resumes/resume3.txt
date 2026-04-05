@@ -1,0 +1,23 @@
+Name: Sanya Kapoor
+Email: sanya.kapoor@email.com
+Phone: +91-9988776655
+
+Skills: HTML, CSS, JavaScript, React
+
+Experience:
+
+Front-end Developer at WebWorks (1.5 years)
+
+Built responsive websites for various clients
+
+Education:
+
+B.Sc. in Information Technology, Delhi University
+
+Projects:
+
+Portfolio website for photographers
+
+E-commerce front-end for fashion retailer
+
+Languages: English, Punjabi

@@ -1,0 +1,25 @@
+Name: Priya Natarajan
+Email: priya.natarajan@email.com
+Phone: +91-9876543210
+
+Skills: Python, TensorFlow, Machine Learning, Deep Learning, SQL
+
+Experience:
+- 3 years as Machine Learning Engineer at SmartAI Pvt Ltd
+- Developed classification and regression models using TensorFlow and Scikit-learn
+- Automated model training pipelines and performed hyperparameter tuning
+
+Education:
+- M.Sc. in Data Science, Anna University
+- B.Sc. in Computer Science, Madras University
+
+Projects:
+- Customer churn prediction using ensemble models
+- Deep learning model for image classification (CNN)
+- SQL-based data analysis dashboard for internal tools
+
+Certifications:
+- TensorFlow Developer Certificate
+- Advanced SQL for Data Analytics (Coursera)
+
+Languages: English, Tamil

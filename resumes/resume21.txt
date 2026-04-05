@@ -1,0 +1,23 @@
+Name: Rhea Thomas
+Email: rhea.thomas@email.com
+Phone: +91-9765432187
+
+Skills: SQL, PostgreSQL, Power BI, Excel
+
+Experience:
+
+BI Analyst at BizData Inc. (1.5 years)
+
+Created reports and KPIs for sales teams
+
+Education:
+
+BBA in Business Analytics, Christ University
+
+Projects:
+
+Sales performance dashboard
+
+Inventory tracking report automation
+
+Languages: English, Malayalam

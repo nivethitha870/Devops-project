@@ -1,0 +1,24 @@
+Name: Ananya Iyer
+Email: ananya.iyer@email.com
+Phone: +91-9876543210
+
+Skills: Java, Spring Boot, Microservices, REST APIs
+
+Experience:
+
+Software Engineer at Tech Solutions (2 years)
+
+Developed scalable microservices for e-commerce platforms
+
+Education:
+
+B.Tech in Computer Science, NIT Trichy
+
+Projects:
+
+Inventory management system for retail chains
+
+RESTful API development for mobile applications
+
+Languages: English, Hindi
+

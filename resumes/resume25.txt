@@ -1,0 +1,23 @@
+Name: Kavya Srinivasan
+Email: kavya.srini@email.com
+Phone: +91-9856743210
+
+Skills: MATLAB, Image Processing, Deep Learning
+
+Experience:
+
+Research Assistant at IIIT-B (1 year)
+
+Worked on remote sensing and segmentation
+
+Education:
+
+M.Tech in Data Science, IIIT Bangalore
+
+Projects:
+
+Satellite image segmentation using U-Net
+
+Edge detection algorithms for noisy data
+
+Languages: English, Tamil

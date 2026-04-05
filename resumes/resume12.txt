@@ -1,0 +1,24 @@
+Name: Arjun Menon
+Email: arjun.menon@email.com
+Phone: +91-9765432109
+
+Skills: SQL, Data Warehousing, ETL, Power BI
+
+Experience:
+
+Data Analyst at DataInsights (2.5 years)
+
+Analyzed sales data to drive business decisions
+
+Education:
+
+M.Sc. in Data Science, Christ University
+
+Projects:
+
+Sales forecasting model for retail business
+
+Customer segmentation analysis
+
+Languages: English, Malayalam
+

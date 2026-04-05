@@ -1,0 +1,18 @@
+Name: Anjali Jain  
+Email: anjali.jain@email.com  
+Phone: +91-9845012345
+
+Skills: Node.js, Express, MongoDB, REST APIs
+
+Experience:
+- Backend Intern at DevWorks (6 months)
+- Built RESTful services and integrated MongoDB
+
+Education:
+- B.Tech in Computer Engineering, Amity University
+
+Projects:
+- Task manager using MERN stack
+- JWT authentication backend
+
+Languages: English, Hindi

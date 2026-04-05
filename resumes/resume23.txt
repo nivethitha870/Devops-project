@@ -1,0 +1,23 @@
+Name: Sneha Kulkarni
+Email: sneha.kulkarni@email.com
+Phone: +91-9801122334
+
+Skills: Python, Machine Learning, Scikit-learn, Pandas
+
+Experience:
+
+ML Intern at DeepThink AI (1 year)
+
+Built classification models for client datasets
+
+Education:
+
+B.Tech in AI & DS, VIT Vellore
+
+Projects:
+
+Fake news detection using NLP
+
+House price prediction using regression
+
+Languages: English, Marathi

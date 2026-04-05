@@ -1,0 +1,18 @@
+Name: Sneha S  
+Email: sneha.s@email.com  
+Phone: +91-9666677788
+
+Skills: Flutter, Dart, Firebase, REST APIs
+
+Experience:
+- Flutter Developer Intern at AppNest (6 months)
+- Developed student attendance and record apps
+
+Education:
+- B.E. in Computer Engineering, VIT
+
+Projects:
+- Weather forecast app using OpenWeather API
+- UI-rich quiz app with local storage
+
+Languages: English, Kannada

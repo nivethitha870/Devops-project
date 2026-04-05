@@ -1,0 +1,23 @@
+Name: Priya Deshpande
+Email: priya.d@email.com
+Phone: +91-9988776655
+
+Skills: Python, Data Science, NumPy, Pandas
+
+Experience:
+
+Data Science Intern at AnalyticsHub (6 months)
+
+Worked on customer churn analysis
+
+Education:
+
+M.Sc. in Data Analytics, Fergusson College, Pune
+
+Projects:
+
+Loan default prediction model
+
+EDA on telecom customer data
+
+Languages: English, Marathi

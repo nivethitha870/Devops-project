@@ -1,0 +1,23 @@
+Name: Vikram Desai
+Email: vikram.desai@email.com
+Phone: +91-9123456789
+
+Skills: C++, Qt Framework, Embedded Systems
+
+Experience:
+
+Embedded Software Developer at EmbeddedTech (3 years)
+
+Designed firmware for IoT devices
+
+Education:
+
+B.E. in Electronics, Mumbai University
+
+Projects:
+
+Home automation system using IoT
+
+Real-time data acquisition system
+
+Languages: English, Marathi

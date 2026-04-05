@@ -1,0 +1,20 @@
+Name: Aditya Rao  
+Email: aditya.rao@email.com  
+Phone: +91-9123456780
+
+Skills: Python, R, SQL, Tableau, Data Analysis
+
+Experience:
+- 2 years as Data Analyst at InsightTech
+- Developed sales and marketing dashboards using Tableau
+- Automated monthly reporting with Python and SQL
+
+Education:
+- M.Sc. in Statistics, IIT Madras
+- B.Sc. in Mathematics, Loyola College
+
+Projects:
+- Customer segmentation using K-Means clustering
+- Time series forecasting for inventory management
+
+Languages: English, Hindi

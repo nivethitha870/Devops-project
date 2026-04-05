@@ -1,0 +1,23 @@
+Name: Arvind Rajan
+Email: arvind.rajan@email.com
+Phone: +91-9911223344
+
+Skills: Java, DS & Algorithms, System Design
+
+Experience:
+
+SDE Intern at Infosys (6 months)
+
+Implemented modules for HRMS software
+
+Education:
+
+B.E. in CSE, PSG Tech, Coimbatore
+
+Projects:
+
+Online book rental system
+
+Social media clone using Java and MySQL
+
+Languages: English, Tamil

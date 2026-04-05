@@ -1,0 +1,23 @@
+Name: Faizan Ahmed
+Email: faizan.ahmed@email.com
+Phone: +91-9988771122
+
+Skills: AWS, Linux, Docker, Jenkins
+
+Experience:
+
+DevOps Engineer at CloudStream (2 years)
+
+Deployed CI/CD pipelines and managed cloud infra
+
+Education:
+
+B.Tech in ECE, AMU Aligarh
+
+Projects:
+
+Automated deployment for Python apps
+
+Scalable microservices deployment on AWS
+
+Languages: English, Urdu

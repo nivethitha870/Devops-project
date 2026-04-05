@@ -1,0 +1,18 @@
+Name: Vishal Das  
+Email: vishal.das@email.com  
+Phone: +91-9677881234
+
+Skills: Kotlin, Android Studio, Firebase, UI/UX
+
+Experience:
+- Android Developer at PocketApps (2 years)
+- Built native apps and push notification systems
+
+Education:
+- B.Sc. in CS, Delhi University
+
+Projects:
+- Expense tracking mobile app
+- Offline-capable news reader
+
+Languages: English, Bengali

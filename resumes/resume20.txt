@@ -1,0 +1,23 @@
+Name: Nikhil Mehta
+Email: nikhil.mehta@email.com
+Phone: +91-9834567891
+
+Skills: Android, Kotlin, Firebase, SQLite
+
+Experience:
+
+Android Developer at AppForge (2 years)
+
+Built and maintained multiple Android applications
+
+Education:
+
+B.Tech in Information Technology, SRM University
+
+Projects:
+
+Fitness tracking app with Firebase backend
+
+Expense manager with local storage
+
+Languages: English, Hindi

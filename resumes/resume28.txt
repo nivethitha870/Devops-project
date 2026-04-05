@@ -1,0 +1,23 @@
+Name: Gokul Ramesh
+Email: gokul.ramesh@email.com
+Phone: +91-9600789123
+
+Skills: Robotics, ROS, Python, C++
+
+Experience:
+
+Robotics Intern at DRDO (6 months)
+
+Programmed robot movement and object detection
+
+Education:
+
+B.E. in Mechatronics, MIT Chennai
+
+Projects:
+
+Line follower robot with PID control
+
+SLAM-based navigation bot
+
+Languages: English, Tamil

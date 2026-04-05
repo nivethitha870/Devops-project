@@ -1,0 +1,24 @@
+Name: Ishita Rao
+Email: ishita.rao@email.com
+Phone: +91-9823456780
+
+Skills: R, Python, Data Visualization, Tableau
+
+Experience:
+
+Data Science Intern at AnalyticsCo (6 months)
+
+Built dashboards and performed exploratory data analysis
+
+Education:
+
+M.Sc. in Statistics, Loyola College, Chennai
+
+Projects:
+
+Visual analytics for COVID-19 data
+
+R Shiny dashboard for insurance claim analysis
+
+Languages: English, Kannada
+

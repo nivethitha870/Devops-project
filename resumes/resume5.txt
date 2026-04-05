@@ -1,0 +1,19 @@
+Name: Swetha Lakshmi  
+Email: swetha.lakshmi@email.com  
+Phone: +91-9876123456
+
+Skills: Python, Scikit-learn, Pandas, Machine Learning, Statistics
+
+Experience:
+- Junior Data Scientist at MLCore (1.5 years)
+- Built ML models for credit scoring and customer retention
+
+Education:
+- M.Sc. in Data Analytics, PSG Tech
+- B.Sc. in CS, Women’s Christian College
+
+Projects:
+- Price prediction using regression models
+- Automated preprocessing pipeline
+
+Languages: English, Tamil
